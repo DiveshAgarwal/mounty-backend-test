@@ -1,0 +1,63 @@
+h3,label{
+	color:#000;
+	font-family: 'Ubuntu', sans-serif;
+}
+.product-row{
+	padding-top:2em;
+}
+.mid-item{
+    position: relative;
+    border: 1px solid #EFECEC;
+    padding: 10px;
+}
+.pro-img img{
+	height:300px;
+}
+.pro-text h4{
+	text-align:center;
+}
+.pro-text h4 a:hover{
+	color: #F67777;
+	transition: color 1s;
+}
+.pro-text h4 a{
+	color:#000;
+	font-family: 'Ubuntu', sans-serif;
+	font-size:22px;
+	text-transform:capitalize;
+	text-decoration:none;
+	margin-bottom:0px;
+}
+.products-list{
+	max-height:650px;
+	overflow-y:scroll;
+}
+.item{
+	margin-top:15px;
+	border:1px #cacaca solid;
+	padding:5px;
+	cursor:pointer;
+}
+.showcase{
+	
+}
+.container{
+	padding-top:20px;
+}
+.main{
+	max-height:650px;
+}
+.showcase-desc h3{
+	text-transform:capitalize;
+	font-size:28px;
+}
+.showcase-desc p{
+	font-size:16px;
+	color:black;
+	font-family: 'Ubuntu', sans-serif;
+}
+.showcase-desc h5{
+	color:#000;
+	font-size:18px;
+	font-family: 'Ubuntu', sans-serif;
+}
